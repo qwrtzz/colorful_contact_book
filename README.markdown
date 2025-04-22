@@ -56,7 +56,7 @@ Colorful Contact Book использует следующие библиотек
    Склонируйте этот репозиторий на ваш компьютер:
 
    ```
-   git clone https://github.com/qwrtzz/111.git
+   git clone https://github.com/qwrtzz/colorful_contact_book.git
    cd colorful-contact-book
    ```
 
